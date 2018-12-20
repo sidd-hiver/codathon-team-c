@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/sidd-hiver/codathon-team-c.svg?branch=master)](https://travis-ci.org/sidd-hiver/codathon-team-c)
+[![Coverage Status](https://coveralls.io/repos/github/sidd-hiver/codathon-team-c/badge.svg?branch=master)](https://coveralls.io/github/sidd-hiver/codathon-team-c?branch=master)
+
 # my-first-app
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that A Probot app
